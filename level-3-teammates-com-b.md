@@ -1,4 +1,4 @@
-← [README](README.md) | [Combined Report](combined-com-b-report.md) | [Action Plan](ai-maturity-action-plan.md)
+← [Home](README.md) | [Deep Dives](deep-dives.md) | [Diagnostic Report](combined-com-b-report.md) | [Action Plan](ai-maturity-action-plan.md)
 
 ---
 

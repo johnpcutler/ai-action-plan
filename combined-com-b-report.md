@@ -1,4 +1,4 @@
-← [README](README.md) | [Action Plan](ai-maturity-action-plan.md) | Level deep dives: [1](level-1-thought-partner-com-b.md) · [2](level-2-assistant-com-b.md) · [3](level-3-teammates-com-b.md) · [4](level-4-system-com-b.md)
+← [Home](README.md) | [Action Plan](ai-maturity-action-plan.md) | [Deep Dives](deep-dives.md)
 
 ---
 
