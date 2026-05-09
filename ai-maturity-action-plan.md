@@ -1,3 +1,7 @@
+← [README](README.md) | [Combined Report](combined-com-b-report.md) | Level deep dives: [1](level-1-thought-partner-com-b.md) · [2](level-2-assistant-com-b.md) · [3](level-3-teammates-com-b.md) · [4](level-4-system-com-b.md)
+
+---
+
 # AI Maturity Action Plan: From Thought Partner to System
 
 > **TL;DR:** A phased plan to advance an organization through four AI maturity levels over 6–8 quarters. Each phase creates the conditions, builds the capability, and sustains the motivation for the next. The key principle: fix the environment first, demonstrate before educating, and never skip levels.

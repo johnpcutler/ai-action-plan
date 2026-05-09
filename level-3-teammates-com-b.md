@@ -1,3 +1,7 @@
+← [README](README.md) | [Combined Report](combined-com-b-report.md) | [Action Plan](ai-maturity-action-plan.md)
+
+---
+
 # COM-B Behavioral Diagnosis: AI as Teammates (Level 3)
 
 ## AI Maturity Model — Level 3: Automate repetitive work, increase team efficiency

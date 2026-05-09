@@ -1,3 +1,7 @@
+← [README](README.md) | [Combined Report](combined-com-b-report.md) | [Action Plan](ai-maturity-action-plan.md)
+
+---
+
 # COM-B Behavioral Diagnosis: AI as an Assistant (Level 2)
 
 **AI Maturity Model — Level 2**

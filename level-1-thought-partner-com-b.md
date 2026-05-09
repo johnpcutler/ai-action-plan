@@ -1,3 +1,7 @@
+← [README](README.md) | [Combined Report](combined-com-b-report.md) | [Action Plan](ai-maturity-action-plan.md)
+
+---
+
 # COM-B Behavioral Diagnosis: AI as a Thought Partner (Level 1)
 
 **Maturity Level:** 1 — AI as a Thought Partner
