@@ -1,7 +1,3 @@
-← [Home](README.md) | [Action Plan](ai-maturity-action-plan.md) | [Deep Dives](deep-dives.md)
-
----
-
 # Combined COM-B Report: AI Maturity Model — Cross-Level Synthesis
 
 **Maturity model:** [The AI Transformation Model](https://notion-ai-assessment.vercel.app/) by John Hurley, Notion  

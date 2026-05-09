@@ -1,7 +1,3 @@
-← [Home](README.md) | [Deep Dives](deep-dives.md) | [Diagnostic Report](combined-com-b-report.md) | [Action Plan](ai-maturity-action-plan.md)
-
----
-
 # COM-B Behavioral Diagnosis: Level 4 — AI as the System
 
 > **Maturity Level:** 4 of 5

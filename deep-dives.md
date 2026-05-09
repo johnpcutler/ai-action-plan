@@ -1,7 +1,3 @@
-← [Home](README.md) | [Diagnostic Report](combined-com-b-report.md) | [Action Plan](ai-maturity-action-plan.md)
-
----
-
 # Level Deep Dives
 
 Individual COM-B behavioral diagnoses for each level of the AI Transformation Model. Each analysis examines both the adoption behavior (why organizations struggle to reach that level) and the progression blocker (why they get stuck and can't advance to the next).
